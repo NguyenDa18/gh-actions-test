@@ -1,9 +1,9 @@
 {
-  "activity": "Bake a pie with some friends",
-  "type": "cooking",
-  "participants": 3,
-  "price": 0.3,
+  "activity": "Pot some plants and put them around your house",
+  "type": "relaxation",
+  "participants": 1,
+  "price": 0.4,
   "link": "",
-  "key": "3141592",
+  "key": "6613330",
   "accessibility": 0.3
 }
