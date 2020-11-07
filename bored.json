@@ -1,9 +1,9 @@
 {
-  "activity": "Research a topic you're interested in",
-  "type": "education",
+  "activity": "Configure two-factor authentication on your accounts",
+  "type": "busywork",
   "participants": 1,
   "price": 0,
-  "link": "",
-  "key": "3561421",
-  "accessibility": 0.9
+  "link": "https://en.wikipedia.org/wiki/Multi-factor_authentication",
+  "key": "1572120",
+  "accessibility": 0
 }
