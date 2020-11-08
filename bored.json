@@ -1,9 +1,9 @@
 {
-  "activity": "Clean out your garage",
-  "type": "busywork",
+  "activity": "Find a charity and donate to it",
+  "type": "charity",
   "participants": 1,
-  "price": 0,
+  "price": 0.4,
   "link": "",
-  "key": "7023703",
+  "key": "1488053",
   "accessibility": 0.1
 }
