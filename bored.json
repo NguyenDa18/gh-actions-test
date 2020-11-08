@@ -1,9 +1,9 @@
 {
-  "activity": "Conquer one of your fears",
-  "type": "recreational",
+  "activity": "Take a class at your local community center that interests you",
+  "type": "education",
   "participants": 1,
-  "price": 0.1,
+  "price": 0,
   "link": "",
-  "key": "8344539",
-  "accessibility": 0.1
+  "key": "8750692",
+  "accessibility": 0.15
 }
