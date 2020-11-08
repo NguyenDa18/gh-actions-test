@@ -1,9 +1,9 @@
 {
-  "activity": "Fix something that's broken in your house",
-  "type": "diy",
+  "activity": "Clean out your garage",
+  "type": "busywork",
   "participants": 1,
-  "price": 0.1,
+  "price": 0,
   "link": "",
-  "key": "6925988",
-  "accessibility": 0.3
+  "key": "7023703",
+  "accessibility": 0.1
 }
