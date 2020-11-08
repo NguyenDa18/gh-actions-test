@@ -1,9 +1,9 @@
 {
-  "activity": "Listen to a new music genre",
-  "type": "music",
+  "activity": "Learn how to beatbox",
+  "type": "recreational",
   "participants": 1,
   "price": 0,
-  "link": "",
-  "key": "4708863",
-  "accessibility": 0
+  "link": "https://en.wikipedia.org/wiki/Beatboxing",
+  "key": "8731710",
+  "accessibility": 1
 }
