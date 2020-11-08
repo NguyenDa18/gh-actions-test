@@ -1,9 +1,9 @@
 {
-  "activity": "Organize your pantry",
-  "type": "busywork",
+  "activity": "Bake something you've never tried before",
+  "type": "cooking",
   "participants": 1,
-  "price": 0,
+  "price": 0.4,
   "link": "",
-  "key": "3954882",
-  "accessibility": 0
+  "key": "5665663",
+  "accessibility": 0.3
 }
