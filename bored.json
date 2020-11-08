@@ -1,9 +1,9 @@
 {
-  "activity": "Find a DIY to do",
-  "type": "diy",
+  "activity": "Conquer one of your fears",
+  "type": "recreational",
   "participants": 1,
-  "price": 0.4,
+  "price": 0.1,
   "link": "",
-  "key": "4981819",
-  "accessibility": 0.3
+  "key": "8344539",
+  "accessibility": 0.1
 }
