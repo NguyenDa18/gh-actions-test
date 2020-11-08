@@ -1,9 +1,9 @@
 {
-  "activity": "Start a webinar on a topic of your choice",
-  "type": "education",
+  "activity": "Wash your car",
+  "type": "busywork",
   "participants": 1,
-  "price": 0,
+  "price": 0.05,
   "link": "",
-  "key": "6826029",
-  "accessibility": 0.9
+  "key": "1017771",
+  "accessibility": 0.15
 }
