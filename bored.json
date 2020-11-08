@@ -1,9 +1,9 @@
 {
-  "activity": "Learn Kotlin",
+  "activity": "Start a webinar on a topic of your choice",
   "type": "education",
   "participants": 1,
   "price": 0,
-  "link": "https://kotlinlang.org/",
-  "key": "3950821",
-  "accessibility": 0.8
+  "link": "",
+  "key": "6826029",
+  "accessibility": 0.9
 }
