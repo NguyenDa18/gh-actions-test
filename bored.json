@@ -1,9 +1,9 @@
 {
-  "activity": "Go to a karaoke bar with some friends",
-  "type": "social",
-  "participants": 4,
-  "price": 0.5,
+  "activity": "Organize your pantry",
+  "type": "busywork",
+  "participants": 1,
+  "price": 0,
   "link": "",
-  "key": "9072906",
-  "accessibility": 0.35
+  "key": "3954882",
+  "accessibility": 0
 }
