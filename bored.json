@@ -1,9 +1,9 @@
 {
-  "activity": "Visit a nearby museum",
-  "type": "recreational",
+  "activity": "Organize your pantry",
+  "type": "busywork",
   "participants": 1,
-  "price": 0.2,
+  "price": 0,
   "link": "",
-  "key": "5490351",
-  "accessibility": 0.7
+  "key": "3954882",
+  "accessibility": 0
 }
