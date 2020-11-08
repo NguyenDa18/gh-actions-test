@@ -1,9 +1,9 @@
 {
-  "activity": "Make tie dye shirts",
-  "type": "diy",
+  "activity": "Learn calligraphy",
+  "type": "education",
   "participants": 1,
-  "price": 0.2,
+  "price": 0.1,
   "link": "",
-  "key": "8092359",
-  "accessibility": 0.2
+  "key": "4565537",
+  "accessibility": 0.1
 }
