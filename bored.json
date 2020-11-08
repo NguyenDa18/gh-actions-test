@@ -1,9 +1,9 @@
 {
-  "activity": "Go for a walk",
-  "type": "relaxation",
-  "participants": 1,
-  "price": 0,
+  "activity": "Go to a music festival with some friends",
+  "type": "social",
+  "participants": 4,
+  "price": 0.4,
   "link": "",
-  "key": "4286250",
-  "accessibility": 0.1
+  "key": "6482790",
+  "accessibility": 0.2
 }
