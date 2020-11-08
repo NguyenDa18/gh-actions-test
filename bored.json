@@ -1,9 +1,9 @@
 {
-  "activity": "Clean out your refrigerator",
-  "type": "busywork",
+  "activity": "Make tie dye shirts",
+  "type": "diy",
   "participants": 1,
-  "price": 0,
+  "price": 0.2,
   "link": "",
-  "key": "9324336",
-  "accessibility": 0
+  "key": "8092359",
+  "accessibility": 0.2
 }
