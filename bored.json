@@ -1,9 +1,9 @@
 {
-  "activity": "Cook something together with someone",
-  "type": "cooking",
-  "participants": 2,
-  "price": 0.3,
+  "activity": "Find a DIY to do",
+  "type": "diy",
+  "participants": 1,
+  "price": 0.4,
   "link": "",
-  "key": "1799120",
-  "accessibility": 0.8
+  "key": "4981819",
+  "accessibility": 0.3
 }
