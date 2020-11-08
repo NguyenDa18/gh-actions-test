@@ -1,9 +1,9 @@
 {
-  "activity": "Write a thank you letter to an influential person in your life",
-  "type": "social",
+  "activity": "Learn Kotlin",
+  "type": "education",
   "participants": 1,
   "price": 0,
-  "link": "",
-  "key": "4101229",
-  "accessibility": 0.1
+  "link": "https://kotlinlang.org/",
+  "key": "3950821",
+  "accessibility": 0.8
 }
