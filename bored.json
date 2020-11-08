@@ -1,9 +1,9 @@
 {
-  "activity": "Learn calligraphy",
-  "type": "education",
+  "activity": "Take your dog on a walk",
+  "type": "relaxation",
   "participants": 1,
-  "price": 0.1,
+  "price": 0,
   "link": "",
-  "key": "4565537",
-  "accessibility": 0.1
+  "key": "9318514",
+  "accessibility": 0.2
 }
